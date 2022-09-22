@@ -533,7 +533,6 @@ Once execution is completed your directory should now contain multiple checkpoin
   pb670.f00002
   ...
 
-MOOSE offers an easy way post-process using many built in functions `here <https://mooseframework.inl.gov/syntax/Postprocessors/index.html>`_.
 This requires generating a metadata file with ``visnek``, found in ``/scripts``. However, the preferred mode for data visualization with *NekRS* is to use Visit or Paraview. 
 
 It can be run with::
@@ -550,3 +549,5 @@ Below are 3D renderings done in VisIt of the velocity and temperature fields.
 .. figure:: pb67_3D_renderings.png
     :align: center
     :figclass: align-center
+
+*Note MOOSE offers other options of post-processing using many built in functions `here <https://mooseframework.inl.gov/syntax/Postprocessors/index.html>`_.
