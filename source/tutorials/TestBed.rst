@@ -542,7 +542,7 @@ It can be run with::
 to obtain a file named ``pb67.nek5000``.
 This file can be opened with either Visit or Paraview.
 
-Below are 3D renderings done in VisIt of the velocity and temperature fields.
+Below are 3D renderings done in VisIt of the velocity(left) and temperature(right) fields.
 
 .. _fig:pb67_3D_renderings:
 
