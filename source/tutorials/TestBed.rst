@@ -545,3 +545,8 @@ This file can be opened with either Visit or Paraview.
 
 Below are 3D renderings done in VisIt of the velocity and temperature fields.
 
+.. _fig:pb67_3D_renderings:
+
+.. figure:: pb67_3D_renderings.png
+    :align: center
+    :figclass: align-center
